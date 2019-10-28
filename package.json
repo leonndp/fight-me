@@ -1,0 +1,8 @@
+{
+  "name": "fight-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leonndp/fight-me.git",
+  "author": "Leon Dela Pena",
+  "license": "MIT"
+}
